@@ -9,27 +9,27 @@
   --paragraph-color: rgb(117, 117, 117, 1);
 }
 
-body{
-    font-family: "Roboto", sans-serif;
-    font-size: 14px;
-    color: var(--black-color);
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  color: var(--black-color);
 }
 
-.list{
-    list-style: none;;
+.list {
+  list-style: none;
 }
 
-.link{
-    text-decoration: none;
+.link {
+  text-decoration: none;
 }
 
-.current{
-    color: var(--blue-color);
+.current {
+  color: var(--blue-color);
 }
 
 .hero_navigation {
   color: var(--blue-color);
-  font-family: "Raleway";
+  font-family: 'Raleway';
   font-weight: 700;
   font-size: 26px;
   line-height: 1.17em;
@@ -50,19 +50,19 @@ body{
   color: var(--blue-color);
 }
 
-.hero_texts h1{
-    font-weight: 900;
-    font-size: 44px;
-    line-height: 1.36;
+.hero_texts h1 {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
 }
 
-.hero_texts button{
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 1.88em;
+.hero_texts button {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.88em;
 }
 
-.hero_texts{
+.hero_texts {
   color: var(--white-font);
   background-color: var(--background-title);
   text-align: center;
@@ -73,6 +73,7 @@ body{
   color: var(--white-font);
   background-color: var(--blue-color);
   letter-spacing: 0.06em;
+  cursor: pointer;
 }
 
 .services_list {
@@ -99,93 +100,92 @@ body{
   text-align: center;
 }
 
-.ourteam{
-    color: var(--black-color);
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.17em;
-    letter-spacing: 0.03em;
-    text-align: center;
+.ourteam {
+  color: var(--black-color);
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.17em;
+  letter-spacing: 0.03em;
+  text-align: center;
 }
 
-.team_name{
-    color: var(--black-color);
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.17em;
-    letter-spacing: 0.03em;
+.team_name {
+  color: var(--black-color);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.17em;
+  letter-spacing: 0.03em;
 }
 
-.team_ocupation{
-    color: var(--paragraph-color);
-    font-size: 16px;
-    line-height: 1.17em;
-    letter-spacing: 0.03em;
+.team_ocupation {
+  color: var(--paragraph-color);
+  font-size: 16px;
+  line-height: 1.17em;
+  letter-spacing: 0.03em;
 }
 
 .last_part {
-    color: var(--white-font);
-    background-color: var(--background-title);
-    cursor: pointer;
+  color: var(--white-font);
+  background-color: var(--background-title);
+  cursor: pointer;
 }
 
-.icon{
-    color: var(--blue-color);
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 1.17em;
-    letter-spacing: 0.03em;
+.icon {
+  color: var(--blue-color);
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.17em;
+  letter-spacing: 0.03em;
 }
 
-.last{
-    font-size: 14px;
-    line-height: 1.71em;
-    letter-spacing: 0.03em;
-
+.last {
+  font-size: 14px;
+  line-height: 1.71em;
+  letter-spacing: 0.03em;
 }
 
-.lastpart_address{
-    color: var(--white-font);
+.lastpart_address {
+  color: var(--white-font);
 }
 
-.lastpart_info{
-    color: rgba(255, 255, 255, 0.6);
+.lastpart_info {
+  color: rgba(255, 255, 255, 0.6);
 }
 
-.buttons{
-    text-align: center;
+.buttons {
+  text-align: center;
 }
 
-.buttons_item{
-    color: var(--black-color);
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.63em;
-    cursor: pointer;
-    letter-spacing: 0.03em;
+.buttons_item {
+  color: var(--black-color);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.63em;
+  cursor: pointer;
+  letter-spacing: 0.03em;
 }
 
-.buttons_item:hover{
-    color: var(--white-font);
-    background-color: var(--blue-color);
+.buttons_item:hover {
+  color: var(--white-font);
+  background-color: var(--blue-color);
 }
 
-.buttons_item:focus{
-    color: var(--white-font);
-    background-color: var(--blue-color);
+.buttons_item:focus {
+  color: var(--white-font);
+  background-color: var(--blue-color);
 }
 
-.images_name{
-    color:var(--black-color);
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 2em;
-    letter-spacing: 0.06em;
+.images_name {
+  color: var(--black-color);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2em;
+  letter-spacing: 0.06em;
 }
 
-.images_description{
-    color: var(--paragraph-color);
-    font-size: 16px;
-    line-height: 1.88em;
-    letter-spacing: 0.03em;
+.images_description {
+  color: var(--paragraph-color);
+  font-size: 16px;
+  line-height: 1.88em;
+  letter-spacing: 0.03em;
 }
